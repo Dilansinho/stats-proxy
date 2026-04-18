@@ -1,6 +1,0 @@
-{
-  "name": "statsbet-proxy",
-  "version": "1.0.0",
-  "description": "Proxy CORS para football-data.org",
-  "private": true
-}
