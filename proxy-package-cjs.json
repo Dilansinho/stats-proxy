@@ -1,6 +1,5 @@
 {
-  "name": "statsbet-proxy",
-  "version": "2.0.0",
-  "description": "Proxy CORS para api-football.com",
+  "name": "stats-proxy",
+  "version": "1.0.0",
   "private": true
 }
